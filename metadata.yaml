@@ -1,0 +1,30 @@
+_repo: Kyllikki-ja-Lemminkainen-b-Laulurunoja_73309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liinamaa-Pärssinen, Hilja
+    aliases:
+    - Liinamaa, Hilja
+    - Liinamaa-Parssinen, Hilja
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '33713'
+    url: http://www.gutenberg.org/2009/agents/33713
+description: ''
+gutenberg_issued: '2024-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73309'
+language: fi
+pgterms:marc905: 20230625111113prssinen
+pgterms:marc906: '1902'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bE. E. Sundvall, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kyllikki ja Lemminkäinen : $b Laulurunoja'
+url: http://www.gutenberg.org/ebooks/73309
